@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Personal information
+This application does not collect or transmit any user's personally identifiable information. No personal information is used, stored, secured or disclosed by services this application works with.
 
-You can use the [editor on GitHub](https://github.com/yifan/yifan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Technical information
+Limited technical information is sent (such as IP addresses included in the HTTP calls the application makes) but none of that is used or stored.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Statistical information
+No non-identifiable/identifiable information is sent for statistical information about app usage, device type and capabilities.
 
-### Markdown
+## Third parties
+If the app makes use of third party services, their usage of information is excluded from this privacy policy. You will be clearly made aware of the third parties involved in the app and we will ensure the very minimal set of data is set to those third parties.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yifan/yifan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Report violations or get more information
+If you would like to report any violations of this policy or get more information on any app, please contact us on freqyifan at gmail dot com.
